@@ -27,5 +27,5 @@ I am a disciplined and highly focused **Data Warehouse Engineer** specializing i
 ---
 
 ## 📬 Connect with Me
-* **Email:** fontesdiego4848@gmail.com
+* **Email:** fontesdiego650@gmail.com
 *
