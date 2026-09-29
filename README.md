@@ -22,7 +22,7 @@ I am a disciplined and highly focused **Data Warehouse Engineer** specializing i
 ---
 
 ## 🚀 Featured Projects
-*(My first end-to-end data warehousing project is currently under development. Stay tuned!)*
+* **Data warehouse ETL Project**: Pipeline que extrae datos de una API con python y los carga en PostgreSQL. Link del proyecto: https://github.com//data-ware-eng/data-warehouse-etl-project
 
 ---
 
